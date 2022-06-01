@@ -1,2 +1,2 @@
 # git_teste
- testando oo git
+ Testando o git
